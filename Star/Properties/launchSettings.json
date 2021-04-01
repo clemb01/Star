@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Star": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
